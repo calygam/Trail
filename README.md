@@ -11,30 +11,23 @@ fornecidas por professores especializados.
     <td align="center">
       <img src="https://github.com/DevCaioBO.png" width="80" style="border-radius:50%">
       <br>
-      <strong><a href="https://github.com/DevCaioBO">Caio Bueno</a></strong><br>💻 Front End
+      <strong><a href="https://github.com/DevCaioBO">Caio Bueno</a></strong><br>💻 Front End - 
+      ⚙️ Back End
     </td>
     <td align="center">
       <img src="https://github.com/Yago316.png" width="80" style="border-radius:50%">
       <br>
-      <strong><a href="https://github.com/Yago316">Yago</a></strong><br>⚙️ Back End
+      <strong><a href="https://github.com/Yago316">Yago</a></strong><br>⚙️ Back End -
+      🎨 Design
     </td>
     <td align="center">
       <img src="https://github.com/AdryanSousa7.png" width="80" style="border-radius:50%">
       <br>
       <strong><a href="https://github.com/AdryanSousa7">Adryan Sousa</a></strong><br>🚀 DevOps
     </td>
-    <td align="center">
-      <img src="https://github.com/DevCaioBO.png" width="80" style="border-radius:50%">
-      <br>
-      <strong><a href="https://github.com/DevCaioBO">Caio Bueno</a></strong><br>⚙️ Back End
-    </td>
+    
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/Yago316.png" width="80" style="border-radius:50%">
-      <br>
-      <strong><a href="https://github.com/Yago316">Yago</a></strong><br>🎨 Design
-    </td>
         <td align="center">
       <img src="https://github.com/Dominique0000007.png" width="80" style="border-radius:50%">
       <br>
